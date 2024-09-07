@@ -1,2 +1,2 @@
-var a = "happy ganesh chaturthi";
+var a = "change from github";
 console.log(a);
